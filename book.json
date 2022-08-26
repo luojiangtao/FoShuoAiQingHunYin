@@ -1,3 +1,11 @@
 {
-    "title": "《佛说爱情婚姻》罗江涛·著"
+    "title": "《佛说爱情婚姻》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "744f1f78365c3878d440aebe4232d28e"
+        }
+    }
 }
